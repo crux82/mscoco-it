@@ -62,7 +62,7 @@ DEFINIRE
 
 ## Download
 
-To download the MSCOCO-it dataset, please refer to  DEFINIRE
+To download the MSCOCO-it dataset, please refer to [this folder](https://github.com/crux82/mscoco-it/tree/master/mscoco-it)
 
 The resource is developed by the [Semantic Analytics Group](http://sag.art.uniroma2.it) of
 the [University of Roma Tor Vergata](http://web.uniroma2.it/home). 
