@@ -39,7 +39,7 @@ development set, referred to a subset of the original MSCOCO4K test set (4000 im
 testing from the full MSCOCO validation set).
 
 
-More details about MSCOCO-it can be found in JCOL??????. Note that this release it is different from the document as regards the partially validated captions that are now validated.
+More details about MSCOCO-it can be found in the paper available at this [link](http://www.ai-lc.it/IJCoL/v5n2/IJCOL_5_2_3___scaiella_et_al.pdf). Note that this release it is different from the document as regards the partially validated captions that are now validated.
 
 
 **IMAGES**
@@ -47,9 +47,10 @@ More details about MSCOCO-it can be found in JCOL??????. Note that this release 
 Please refear to : http://cocodataset.org/#download
 * 2014 Train images [83K/13GB] 
 * 2014 Val images [41K/6GB]
+
 ### How to cite MSCOCO-it
 
-
+This dataset was introduced in the work *"Large scale datasets for Image and Video Captioning in Italian"* available at the following [link](http://www.ai-lc.it/IJCoL/v5n2/IJCOL_5_2_3___scaiella_et_al.pdf).
 If you find MSCOCO-it useful for your research, please cite the following paper:
 
 ~~~~
@@ -155,5 +156,3 @@ O. Vinyals, A. Toshev, S. Bengio, and D. Erhan, "Show and tell: A neural image c
 ## Contacts
 
 For any questions or suggestions, you can send an e-mail to <croce@info.uniroma2.it>
-
-More details will be also added to
